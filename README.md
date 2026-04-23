@@ -60,3 +60,19 @@ Semana 4: Pruebas e implementación
         .Registrar productos
         .Gestionar ventas
         .Controlar stock
+
+## Script cálculo de edad
+
+Este script permite calcular la edad de una persona ingresando su fecha de nacimiento y la fecha actual.
+
+### Archivo del script
+[Ver script](edad.py)
+
+###  Cómo ejecutarlo
+
+1. Tener Python instalado en la computadora
+2. Abrir la terminal en la carpeta del proyecto
+3. Ejecutar el siguiente comando:
+
+```bash
+python edad.py
