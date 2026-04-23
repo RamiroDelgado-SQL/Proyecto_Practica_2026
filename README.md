@@ -37,24 +37,26 @@ Los principales beneficiarios serán los dueños y empleados de los comercios de
 El sistema permitirá registrar productos, controlar el stock y gestionar ventas dentro de un comercio. No incluirá funcionalidades avanzadas como facturación electrónica ni integración con sistemas externos. El proyecto estará enfocado en brindar una solución simple, funcional y fácil de usar.
 
 -------Cronograma de actividades-----
-
+Semana 1: Análisis del problema
+Semana 2: Diseño del sistema
+Semana 3: Desarrollo
+Semana 4: Pruebas e implementación
 
 -------Estudio de factibilidad-------
+    Tecnica: El sistema es viable técnicamente ya que se utilizarán tecnologías conocidas y accesibles.
 
+    Economica: El costo de desarrollo es bajo, ya que se utilizarán herramientas gratuitas.
 
---------Tecnica----------------------
-
-
---------Economica--------------------
-
-
--------Operativa----------------------
+    Operativa: El sistema podrá ser utilizado fácilmente por los usuarios sin necesidad de conocimientos avanzados.
 
 
 --------Requerimientos Funcionales----
 
+    Requisitos generales:
+        . El sistema debe ser fácil de usar
+        .Debe ser rápido y eficiente
 
--------Requisitos generales-----------
-
-
--------Requisitos funcionales------
+    Requisitos funcionaL:
+        .Registrar productos
+        .Gestionar ventas
+        .Controlar stock
